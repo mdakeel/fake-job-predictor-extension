@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Kamyab Manual Mode",
+  "version": "1.0",
+  "description": "Paste job description to check authenticity",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
